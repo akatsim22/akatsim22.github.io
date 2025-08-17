@@ -9,27 +9,27 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Aikaterini-Christina Katsimpri — Economics PhD Student, Emory University"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Aikaterini-Christina Katsimpri"
+description              : &description "I’m a second-year PhD student in economics. My research interests lie at the intersection of health, behavioral, and public economics."
+url                      : "Aikaterini-Christina Katsimpri — Economics PhD Student, Emory University" # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "akatsim22/akatsim22.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Katsimpri_Photo.jpg"
+  name             : "Aikaterini-Christina Katsimpri"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "BSc and MSc in Economics from the Athens University of Economics and Business and the Barcelona School of Economics, respectively and MSc in Neuroeconomics from the University of Amsterdam."
+  location         : "Atlanta, GA"
+  employer         : "Emory University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "aikaterini.christina.katsimpri@emory.edu" 
 
   # Academic websites
   academia         : # URL
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : aikaterini-christina-katsimpri-80880b232/ # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
