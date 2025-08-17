@@ -4,6 +4,7 @@ title: "Aikaterini-Christina Katsimpri"
 author_profile: true
 ---
 
+
 I’m a second-year PhD student in economics. My research interests lie at the intersection of health, behavioral, and public economics.
 
 - [CV]({{ '/cv/' | relative_url }})
