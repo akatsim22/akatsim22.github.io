@@ -13,7 +13,7 @@ title                    : "Aikaterini-Christina Katsimpri — Economics PhD Stu
 title_separator          : "-"
 name                     : &name "Aikaterini-Christina Katsimpri"
 description              : &description "I’m a second-year PhD student in economics. My research interests lie at the intersection of health, behavioral, and public economics."
-url                      : "Aikaterini-Christina Katsimpri — Economics PhD Student, Emory University" # the base hostname & protocol for your site 
+url                      : "https://akatsim22.github.io" # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "akatsim22/akatsim22.github.io"
 
