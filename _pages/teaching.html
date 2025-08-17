@@ -7,6 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% if site.teaching and site.teaching != empty %}
+  {% for post in site.teaching reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% else %}
+  <article class="archive__item">
+    <h2 class="archive__item-title">ECON 272: Health Care Markets</h2>
+    <p>
+      <strong>Instructor:</strong> Ian McCarthy<br>
+      <strong>Term:</strong> Fall 2025<br>
+      <strong>Institution:</strong> Emory University
+    </p>
+  </article>
+{% endif %}
+
