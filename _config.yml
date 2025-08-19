@@ -9,10 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Aikaterini-Christina Katsimpri — Economics PhD Student, Emory University"
+title                    : "Aikaterini-Christina Katsimpri"
 title_separator          : "-"
 name                     : &name "Aikaterini-Christina Katsimpri"
-description              : &description "I’m a second-year PhD student in economics. My research interests lie at the intersection of health, behavioral, and public economics."
+description              : &description "I’m a second-year PhD student in Economics at Emory University. My research interests lie at the intersection of health, behavioral, and public economics. |
+I hold a BSc and MSc in Economics from the Athens University of Economics and Business and the Barcelona School of Economics, respectively and MSc in Neuroeconomics from the University of Amsterdam. "
 url                      : "https://akatsim22.github.io" # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "akatsim22/akatsim22.github.io"
@@ -25,7 +26,7 @@ author:
   avatar           : "Katsimpri_Photo_cropped_2.jpg"
   name             : "Aikaterini-Christina Katsimpri"
   pronouns         : # example: "she/her"  
-  bio              : "BSc and MSc in Economics from the Athens University of Economics and Business and the Barcelona School of Economics, respectively and MSc in Neuroeconomics from the University of Amsterdam."
+  bio              : "Economics PhD Student, Emory University"
   location         : "Atlanta, GA"
   employer         : "Emory University"
   uri              : # URL
@@ -37,9 +38,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -53,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
