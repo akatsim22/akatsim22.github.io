@@ -13,7 +13,8 @@ title                    : "Aikaterini-Christina Katsimpri"
 title_separator          : "-"
 name                     : &name "Aikaterini-Christina Katsimpri"
 description              : &description "I’m a second-year PhD student in Economics at Emory University. My research interests lie at the intersection of health, behavioral, and public economics. |
-I hold a BSc and MSc in Economics from the Athens University of Economics and Business and the Barcelona School of Economics, respectively and MSc in Neuroeconomics from the University of Amsterdam. "
+I hold a BSc and MSc in Economics from the Athens University of Economics and Business and the Barcelona School of Economics, respectively and MSc in Neuroeconomics from the University of Amsterdam. | Feel free to reach me out at: aikaterini.christina.katsimpri@emory.edu"
+
 url                      : "https://akatsim22.github.io" # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "akatsim22/akatsim22.github.io"
@@ -26,11 +27,11 @@ author:
   avatar           : "Katsimpri_Photo_cropped_2.jpg"
   name             : "Aikaterini-Christina (Katerina) Katsimpri"
   pronouns         : # example: "she/her"  
-  bio              : "Economics PhD Student, Emory University"
+  bio              : "Economics PhD Student"
   location         : "Atlanta, GA"
   employer         : "Emory University"
   uri              : # URL
-  email            : "aikaterini.christina.katsimpri@emory.edu" 
+  email            : # "aikaterini.christina.katsimpri@emory.edu" 
 
   # Academic websites
   academia         : # URL
