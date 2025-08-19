@@ -1,8 +1,8 @@
 ---
 layout: single
-author_profile: true
-title: "Welcome!"
+title: ""
 permalink: /
+author_profile: true
 ---
 
 I’m a second-year PhD student in Economics at Emory University. My research interests lie at the intersection of health, behavioral, and public economics.
